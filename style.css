@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-image: url('./assets/background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    color: rgb(16, 16, 150);
+}
+
+audio{
+    width: 400px;
+}
+video{
+    width: 700px;
+}
